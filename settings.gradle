@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "CSIT551 Mobile Computing"
